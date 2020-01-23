@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TimeView">
+        <attr name="F_img" format="string"/>
+        <attr name="F_name" format="string" />
+        <attr name="F_location" format="string"/>
+    </declare-styleable>
+
+</resources>
